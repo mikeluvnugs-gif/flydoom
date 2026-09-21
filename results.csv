@@ -1,0 +1,6 @@
+player,kills_mean,n_seeds,notes
+connectome_real_neurotransmitters,1.15,20,p=0.19 vs random
+random_actions,1.45,20,baseline
+idle,0.00,20,baseline
+connectome_randomised_signs,0.60,20,v1
+connectome_retinotopic_hemifields,0.90,10,negative result
