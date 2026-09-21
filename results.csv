@@ -1,6 +1,7 @@
-player,kills_mean,n_seeds,notes
-connectome_real_neurotransmitters,1.15,20,p=0.19 vs random
-random_actions,1.45,20,baseline
-idle,0.00,20,baseline
-connectome_randomised_signs,0.60,20,v1
-connectome_retinotopic_hemifields,0.90,10,negative result
+player,kills_mean,n_seeds,vs_random_p,notes
+flywire_full_brain,1.25,20,0.47,v3 current best
+hemibrain_real_neurotransmitters,1.15,20,0.19,v2 superseded
+random_actions,1.45,20,,baseline
+idle,0.00,20,,floor
+hemibrain_randomised_signs,0.60,20,,v1 superseded
+hemibrain_retinotopic_hemifields,0.90,10,,negative result
